@@ -1,0 +1,30 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    margin-left: auto;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000000DE;
+    font-size: 13px;
+    font-family: Arial,sans-serif;
+}
+nav img {
+    height: 20px;
+}
+
+.icon-w{
+    background-color: green;
+    padding: 1px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    
+}
